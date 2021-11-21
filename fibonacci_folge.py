@@ -12,7 +12,6 @@ def draw(y_elements):
     x_elements = []
     for n in range(0,len(y_elements)):
         x_elements.append(f"f{n+1}")
-    print(x_elements)
     (fig, ax) = plt.subplots()
     plt.plot(x_elements,y_elements,"bo-")
     (start, end) = ax.get_ylim()
