@@ -1,8 +1,5 @@
 #
-#Pulsar
-#https://mein-wissen.glitch.me
-#https://github.com/Pulsar7
-#Python-3.8.2
+# Python-3.8.2
 #
 import os
 import matplotlib.pyplot as plt
